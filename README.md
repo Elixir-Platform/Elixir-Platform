@@ -1,4 +1,4 @@
-# shefaa-app
+# elixir-app
 
 ## Project setup
 ```
